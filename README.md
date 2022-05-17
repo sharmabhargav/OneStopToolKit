@@ -1,7 +1,6 @@
 
 # OneStop ToolKit #
 
-## About Project 💻 ##
 One Stop Tool kit is a single application consisting of multiple functionalities that are calculator, unit convertor, language translator, Text to speech convertor and video downloader. The convertor has five conversion functionalities i.e. temperature conversion, length conversion, weight conversion, currency rate conversion and area conversion. Further the application has language translator and video downloader. The language translator works on google trans API. The video downloader is built using python inbuild libraries mainly Pytube. 
 
 <br /><img width="376" alt="fuctionalities" src="https://user-images.githubusercontent.com/87977583/166099069-b08d093c-6f31-434f-964a-5efcef2a70a7.PNG">
