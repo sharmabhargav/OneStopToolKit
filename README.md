@@ -43,6 +43,5 @@ Problem 2: If anyone is facing the error "No module found named pip" then run th
 <br />Solution😄: ***python get-pip.py***
         
 ## Suggestion 🧐 ##
-Remember after cloning the repo from Github, please download all the image file in your D drive to run the code without 
-hitch or glitch or you can change the image directory according to your convenience and also alter the directory in the program code as well.
+Remember after cloning the repo from Github, please download all the image file in your D drive to run the code . Later you can change the image directory according to your convenience and also alter the directory in the program code as well.
 
