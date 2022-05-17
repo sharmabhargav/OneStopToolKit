@@ -7,7 +7,7 @@ One Stop Tool kit is a single application consisting of multiple functionalities
 <br /><img width="376" alt="fuctionalities" src="https://user-images.githubusercontent.com/87977583/166099069-b08d093c-6f31-434f-964a-5efcef2a70a7.PNG">
 
 
-## Libraries Used 📚📚📚 ##
+## Libraries Used  ##
   1. Tkinter 
   2. Pyttsx3
   3. Pillow
@@ -17,7 +17,7 @@ One Stop Tool kit is a single application consisting of multiple functionalities
   7. Requests
 
 
-## Setting up the project environment ⚙⚙⚙  ##
+## Setting up the environment ##
 
 Open Command Prompt with admin privileges and copy the following commands one by one and press enter after each command.
 
