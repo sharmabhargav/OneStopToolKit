@@ -32,6 +32,7 @@ Open Command Prompt with admin privileges and copy the following commands one by
 10. pip install speechrecognition
 11. pip install pyttsx3
 12. pip install requests
+12. pip install forex-python
 
 ## What problems may occur 🤔 ##
 Problem 1: If anyone is facing any errors while following the above command list then consider upgrading your pip by using 
